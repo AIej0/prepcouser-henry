@@ -1,2 +1,1 @@
-# prepcouser-henry
-este es un repositorio  de modulo2  del prepcouser de henry
+prueba  de como crear un repositorio y clonarlo desde github ami tostadora
